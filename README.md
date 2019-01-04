@@ -9,7 +9,7 @@ SimpleSentiment is a high-level sentiment analysis API, written in Python and ca
 Use simpleSentiment if you need a deep learning sentiment analysis on any text.:
 
 - Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
-- Supports both convolutional networks and recurrent networks, as well as combinations of the two.
+- Supports both nltk and artificial neural networks, as well as combinations of the two.
 - Runs seamlessly on CPU and GPU.
 
 SimpleSentient is compatible with: __Python 3.6__.
