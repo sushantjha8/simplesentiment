@@ -62,5 +62,5 @@ For Python3.6
 ```
  pip install -i https://test.pypi.org/simple/ simplesentiment
                     or
-  pip3 install -i https://test.pypi.org/simple/ simplesentiment
+ pip3 install -i https://test.pypi.org/simple/ simplesentiment
   ```
