@@ -1,5 +1,5 @@
 ﻿# Simplesentiment
-[![Build Status](https://travis-ci.org/sushantjha8/simplesentiment.svg?branch=master)](https://travis-ci.org/sushantjha8/simplesentiment)
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/keras-team/keras/blob/master/LICENSE)
 
 ## You have just found SimpleSentiment.
