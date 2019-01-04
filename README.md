@@ -48,9 +48,9 @@ multiblog_sentient=uList()
 detail_Analysis,analysis_o,avg_sentiment=multiblog_sentient.newSentiement(['http://blogurl'])
 ```
 newSentiement
-##Input
+## Input
 uri=Input taken list of list of blogs and uri
-##Output
+## Output
 It returns 3 level of sentient analysis
 ```
 detail_Analysis,analysis_o,avg_sentiment
