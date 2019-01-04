@@ -33,8 +33,6 @@ SimpleSentient is compatible with: __Python 3.6__.
 
 ## Getting started: 30 seconds to simplesentiment
 
-The core data structure of Keras is a __model__, a way to organize layers. The simplest type of model is the [`Sequential`](https://keras.io/getting-started/sequential-model-guide) model, a linear stack of layers. For more complex architectures, you should use the [Keras functional API](https://keras.io/getting-started/functional-api-guide), which allows to build arbitrary graphs of layers.
-
 Here is the `url content analysis` doing sentiment analysis on multiple blogs :
 
 ```python
