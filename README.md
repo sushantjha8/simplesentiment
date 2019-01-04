@@ -59,6 +59,8 @@ detail_Analysis,analysis_o,avg_sentiment
 ```
 ##Installation
 For Python3.6
+```
  pip install -i https://test.pypi.org/simple/ simplesentiment
                     or
   pip3 install -i https://test.pypi.org/simple/ simplesentiment
+  ```
