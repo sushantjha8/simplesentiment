@@ -55,7 +55,7 @@ It returns 3 level of sentient analysis
 ```
 detail_Analysis,analysis_o,avg_sentiment
 ```
-##Installation
+## Installation
 For Python3.6
 ```
  pip install -i https://test.pypi.org/simple/ simplesentiment
